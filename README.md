@@ -62,15 +62,37 @@ A key consideration is how to improve user experience. Every challenge and probl
 
 ## References
 [1]. Shen, MY, Liu, CY & Huang, B 2013, A Development Strategy of M-Commerce against Mobile Interne, Chapter 3, pp. 1092-1096.
+
 [2]. Nica, E 2015, ICT INNOVATION, INTERNET SUSTAINABILITY, AND ECONOMIC DEVELOPMENT, Addleton Academic Publishers. 
+
 [3]. Barry, M, Vinton, G, David, D 2012,
 <http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet>.
+
 [4]. The history of Android<http://www.androidcentral.com/android-history>.
+
 [5]. EPA Vic About Us<http://www.epa.vic.gov.au/about-us/who-we-are>.
+
 [6]. AirCasting Project About Us<http://www.aircasting.org/about>.
+
 [7]. The difference between functional and non-functional requirements
 <http://reqtest.com/requirements-blog/understanding-the-difference-between-functional-and-non-functional-requirements>.
+
 [8]. Hartley, S 1998, Concurrent programming: the Java programming language, Oxford University Press, New York.
-[8]. May, T 2016, The beginner's guide to flat design
+
+[9]. May, T 2016, The beginner's guide to flat design
  <http://www.creativebloq.com/graphic-design/what-flat-design-3132112>.
+
 [10]. Delling, D, Sanders, P, Schultes, D & Wagner, D 2009, Algorithmics of Large and Complex Networks: Design, Analysis, and Simulation, Springer, pp. 117–139.
+
+## Appendix
+Application video demo:
+https://www.youtube.com/watch?v=IftY9vTKmrs
+
+Google Maps API Instruction:
+https://developers.google.com/maps/
+
+Google Maps API demo for Android:
+https://github.com/googlemaps/android-samples
+
+AirCasting Project Instruction and API:
+https://github.com/habitatmap/aircasting
